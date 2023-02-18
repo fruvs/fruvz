@@ -1,40 +1,27 @@
-# Chrome Bypasses
-Avoid Internet Censorship
-
-<a href="https://www.discord.gg/nullscafe"> **Join the Discord** </a>
-    All kinds of bypasses
-
-
-<a href="https://www.discord.gg/gCgcTUGzaF"> **Support Discord** </a>
-    Support for different types of bypasses
-
-# [Downgrading](./downgrading.html)
-Go to an older version of chromeOS
-
-
-
-# [LTBEEF](./ext-remover)
-Turn off admin installed extensions
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
+<h1 id="chrome-bypasses">Chrome Bypasses</h1>
+<p>Avoid Internet Censorship</p>
+<p><a href="https://www.discord.gg/nullscafe"> <strong>Join the Discord</strong> </a>
+    All kinds of bypasses</p>
+<p><a href="https://www.discord.gg/gCgcTUGzaF"> <strong>Support Discord</strong> </a>
+    Support for different types of bypasses</p>
+<h1 id="-downgrading-downgrading-html-"><a href="./downgrading.html">Downgrading</a></h1>
+<p>Go to an older version of chromeOS</p>
+<h1 id="-ltbeef-ext-remover-"><a href="./ext-remover">LTBEEF</a></h1>
+<p>Turn off admin installed extensions</p>
+<h2 id="header-2">Header 2</h2>
+<blockquote>
+<p>This is a blockquote following a header.</p>
+<p>When something is important enough, you do it even if the odds are not in your favor.</p>
+</blockquote>
+<h3 id="header-3">Header 3</h3>
+<pre><code class="lang-js"><span class="hljs-comment">// Javascript code with syntax highlighting.</span>
+<span class="hljs-keyword">var</span> <span class="hljs-function"><span class="hljs-keyword">fun</span> = function <span class="hljs-title">lang</span><span class="hljs-params">(l)</span></span> {
+  dateformat.i18n = require(<span class="hljs-string">'./lang/'</span> + l)
+  <span class="hljs-keyword">return</span> <span class="hljs-literal">true</span>;
 }
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+</code></pre>
+<pre><code class="lang-ruby"># Ruby code <span class="hljs-built_in">with</span> syntax highlighting
+GitHubPages::<span class="hljs-keyword">Dependencies</span>.gems.each <span class="hljs-built_in">do</span> |<span class="hljs-type">gem</span>, version|
+  <span class="hljs-type">s</span>.add_dependency(gem, <span class="hljs-string">"= #{version}"</span>)
+<span class="hljs-keyword">end</span>
+</code></pre>
