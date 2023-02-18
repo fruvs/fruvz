@@ -2,10 +2,12 @@
 Avoid Internet Censorship
 
 <a href="https://www.discord.gg/nullscafe"> **Join the discord** </a>
-
+    All kinds of bypasses
 
 
 <a href="https://www.discord.gg/gCgcTUGzaF"> **Support Discord** </a>
+    Support for diffrent types of bypasses
+
 # LTBEEF
 
 LTBEEF is a bookmarklet bypass that when used will turn
