@@ -1,8 +1,9 @@
+![image](https://user-images.githubusercontent.com/106267770/219900783-855ffa1c-5db1-41cd-9948-55076dad322a.png)
 
 
 <h1>LTBEEF</h1>
 <p style="text-align: center;">LTBEEF (Literally The Best Exploit Ever Found) is a exploit found by <a href="https://www.bypassi.com">bypassi</a> (Bypassi#7037) and is a great way to disable spyware that was installed on your chromebook by your SysAdmins!
-The new UI was created by CompactCow#4717, Ingot ws created by Nebelung#1335<br><i>Site made by Piplup7575#6726, Logo created by LittleMissNyan</i></p>
+The new UI was created by CompactCow#4717, Ingot ws created by Nebelung#1335<br><i> Logo created by LittleMissNyan</i></p>
 
 <p><strong>Please note that this exploit has been patched in newer versions of chrome, and my not work. <a href="https://www.discord.gg/9w8pf35AUC">Join the TN discord for more exploits</a>!</strong></p>
 
