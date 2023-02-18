@@ -27,7 +27,7 @@ Avoid Internet Censorship
 
 <img src="https://github.com/frizys/fruvs/blob/main/docs/assets/board.png?raw=true" alt="board.png"/>
 
-2 Go to https://www.chrome100.dev/ and scroll down until you find your board. Click on it and find the version you want to downgrade to.
+2 Go to <a href="https://www.chrome100.dev/"> **Chrome100.dev** </a> and scroll down until you find your board. Click on it and find the version you want to downgrade to.
 
 3 Download the file for the version you want to install.
 
