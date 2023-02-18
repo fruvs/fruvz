@@ -9,23 +9,13 @@ Avoid Internet Censorship
     Support for different types of bypasses
 
 # [Downgrading](./downgrading.html)
+Go to an older version of chromeOS
 
 
 
+# [LTBEEF](./ext-remover)
+Turn off admin installed extensions
 
-
-
-# LTBEEF
-
-LTBEEF is a bookmarklet bypass that when used will turn
-off any admin install extension 
-```
-javascript:(function () {var a = document.createElement('script');a.src = 'https://cdn.jsdelivr.net/gh/FogNetwork/Ingot@latest/ingot.min.js';document.body.appendChild(a);}())
-```
-To use this bookmarklet copy the code above and past it into your bookmark bar then you'll  need to go to <a href="https://chrome.google.com/webstorex"> **This Site** </a>. When you get to that site click the bookmarklet you just made and turn off all of the extensions you want
-
-
-[LTBEEF].
 ## Header 2
 
 > This is a blockquote following a header.
