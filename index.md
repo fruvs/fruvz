@@ -60,7 +60,6 @@ Avoid Internet Censorship
 
 
 
-
 # LTBEEF
 
 LTBEEF is a bookmarklet bypass that when used will turn
