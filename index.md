@@ -1,7 +1,7 @@
 # Chrome Bypasses
 Avoid Internet Censorship
 
-<a href="https://www.discord.gg/nullscafe"> **Join the discord** </a>
+<a href="https://www.discord.gg/nullscafe"> **Join the Discord** </a>
     All kinds of bypasses
 
 
@@ -12,6 +12,12 @@ Avoid Internet Censorship
 
 LTBEEF is a bookmarklet bypass that when used will turn
 off any admin install extension 
+```
+javascript:(function () {var a = document.createElement('script');a.src = 'https://cdn.jsdelivr.net/gh/FogNetwork/Ingot@latest/ingot.min.js';document.body.appendChild(a);}())
+```
+To use this bookmarklet copy the code above and past it into your bookmark bar then you'll  need to go to <a href="https://www.chrome.google.com/webstorex"> **This Site** </a>. Whn you get to that site click the bookmarklet you just made and turn off all of the extensions you want
+
+
 [LTBEEF](./another-page.html).
 ## Header 2
 
@@ -48,20 +54,6 @@ end
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
 
 *   Item foo
 *   Item bar
