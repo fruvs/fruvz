@@ -8,7 +8,7 @@ Avoid Internet Censorship
 <a href="https://www.discord.gg/gCgcTUGzaF"> **Support Discord** </a>
     Support for different types of bypasses
 
-# [Downgrading](./another-page.html)
+# [Downgrading](./downgrading.html)
 
 
 
