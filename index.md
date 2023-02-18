@@ -6,7 +6,44 @@ Avoid Internet Censorship
 
 
 <a href="https://www.discord.gg/gCgcTUGzaF"> **Support Discord** </a>
-    Support for diffrent types of bypasses
+    Support for different types of bypasses
+
+# Downgrading
+
+Downgrading is usefull for unblocking patched ways to get around web filters or to do patched exploits.
+
+Requirements: 
+
+**Personal computer**
+              
+ **Flash drive with 8 gigabytes of storage**
+
+**<a href="https://chrome.google.com/webstore/detail/chromebook-recovery-utili/pocpnlppkickgojjlmhdmidojbmbodfm?hl=en"> **Chromebook Recovery Utility Extension** </a>**
+              
+**A Brain**
+
+To downgrade first go to **chrome://version** and find what board your chromebook is on it should look something like this 
+<img src="https://github.com/frizys/fruvs/blob/main/docs/assets/board.png?raw=true" alt="board.png"/>
+
+When you found what board your chromebook is on go to <a href="https://www.chrome100.dev"> **Chrome100.dev** </a>. Scroll down untill you find your board and click on it and find what version you want to downgrade to, and install the file.
+
+Open the extension by clicking on it. Click the gear icon and then press use local image and find the file you installed.
+<img src="https://github.com/frizys/fruvs/blob/main/docs/assets/chrome%20rec%20utility%20crop.png?raw=true" alt="chrome rec utility crop.png"/>
+
+Plug in your flash drive and start the process 
+
+When its done unplug it and get your chromebook ready, make sure its at least at 30% for safty
+
+
+
+
+
+
+
+
+
+
+
 
 # LTBEEF
 
@@ -15,7 +52,7 @@ off any admin install extension
 ```
 javascript:(function () {var a = document.createElement('script');a.src = 'https://cdn.jsdelivr.net/gh/FogNetwork/Ingot@latest/ingot.min.js';document.body.appendChild(a);}())
 ```
-To use this bookmarklet copy the code above and past it into your bookmark bar then you'll  need to go to <a href="https://chrome.google.com/webstorex"> **This Site** </a>. Whn you get to that site click the bookmarklet you just made and turn off all of the extensions you want
+To use this bookmarklet copy the code above and past it into your bookmark bar then you'll  need to go to <a href="https://chrome.google.com/webstorex"> **This Site** </a>. When you get to that site click the bookmarklet you just made and turn off all of the extensions you want
 
 
 [LTBEEF](./another-page.html).
