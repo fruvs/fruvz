@@ -2,7 +2,9 @@
 Avoid Internet Censorship
 
 <a href="http://www.something.com](https://discord.gg/nullscafe"> **Join the discord** </a>
+
 <!-- or -->
+
 <a href="https://www.something.com](https://discord.gg/gCgcTUGzaF"> **Support Discord** </a>
 # LTBEEF
 
