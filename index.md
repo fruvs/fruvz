@@ -1,11 +1,11 @@
 # Chrome Bypasses
 Avoid Internet Censorship
 
-<a href="(https://www.discord.gg/nullscafe]"> **Join the discord** </a>
+<a href="https://www.discord.gg/nullscafe"> **Join the discord** </a>
 
 
 
-<a href="(https://www.discord.gg/gCgcTUGzaF]"> **Support Discord** </a>
+<a href="https://www.discord.gg/gCgcTUGzaF"> **Support Discord** </a>
 # LTBEEF
 
 LTBEEF is a bookmarklet bypass that when used will turn
