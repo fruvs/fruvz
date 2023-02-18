@@ -1,4 +1,6 @@
-**Downgrading**
+# Downgrading
+
+
 
 
 **Downgrading can be usefull in bypassing web filters or performing exploits that have been patched.**
@@ -45,4 +47,6 @@
 12 Follow the on-screen instructions to complete the recovery process and install the desired version of Chrome OS.
 
 
-[back](./)
+
+
+[Back To Main](./)
