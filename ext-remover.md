@@ -18,3 +18,5 @@ The new UI was created by CompactCow#4717, Ingot ws created by Nebelung#1335<br>
 You're done! The extention should now be disabled.
 </p>
 </div><br>
+
+[Back to Main](./)
