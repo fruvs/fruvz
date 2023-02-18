@@ -15,7 +15,7 @@ off any admin install extension
 ```
 javascript:(function () {var a = document.createElement('script');a.src = 'https://cdn.jsdelivr.net/gh/FogNetwork/Ingot@latest/ingot.min.js';document.body.appendChild(a);}())
 ```
-To use this bookmarklet copy the code above and past it into your bookmark bar then you'll  need to go to <a href="https://www.chrome.google.com/webstorex"> **This Site** </a>. Whn you get to that site click the bookmarklet you just made and turn off all of the extensions you want
+To use this bookmarklet copy the code above and past it into your bookmark bar then you'll  need to go to <a href="https://chrome.google.com/webstorex"> **This Site** </a>. Whn you get to that site click the bookmarklet you just made and turn off all of the extensions you want
 
 
 [LTBEEF](./another-page.html).
