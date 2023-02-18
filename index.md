@@ -10,7 +10,7 @@ Avoid Internet Censorship
 
 # Downgrading
 
-__**Downgrading can be usefull in bypassing web filters or performing exploits that have been patched.**__
+**Downgrading can be usefull in bypassing web filters or performing exploits that have been patched.**
 
 **Requirements:** 
 
@@ -23,7 +23,7 @@ __**Downgrading can be usefull in bypassing web filters or performing exploits t
 **A Brain**
 
 
-1 Go to chrome://version on your Chromebook and find what board your Chromebook is on. Take a note of it.
+1 Go to **chrome://version** on your Chromebook and find what board your Chromebook is on. Take a note of it.
 
 <img src="https://github.com/frizys/fruvs/blob/main/docs/assets/board.png?raw=true" alt="board.png"/>
 
