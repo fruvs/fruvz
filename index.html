@@ -13,6 +13,36 @@
       a {
         color: green;
       }
+      
+      /* Define styles for screens smaller than 600px */
+      @media screen and (max-width: 600px) {
+        h1, h2, h3 {
+          font-size: 24px;
+        }
+        p, blockquote, pre {
+          font-size: 16px;
+        }
+      }
+      
+      /* Define styles for screens between 600px and 900px */
+      @media screen and (min-width: 600px) and (max-width: 900px) {
+        h1, h2, h3 {
+          font-size: 36px;
+        }
+        p, blockquote, pre {
+          font-size: 20px;
+        }
+      }
+      
+      /* Define styles for screens larger than 900px */
+      @media screen and (min-width: 900px) {
+        h1, h2, h3 {
+          font-size: 48px;
+        }
+        p, blockquote, pre {
+          font-size: 24px;
+        }
+      }
     </style>
   </head>
   <body>
@@ -38,10 +68,4 @@
   <span class="hljs-keyword">return</span> <span class="hljs-literal">true</span>;
 }
 </code></pre>
-    <pre><code class="lang-ruby"># Ruby code <span class="hljs-built_in">with</span> syntax highlighting
-GitHubPages::<span class="hljs-keyword">Dependencies</span>.gems.each <span class="hljs-built_in">do</span> |<span class="hljs-type">gem</span>, version|
-  <span class="hljs-type">s</span>.add_dependency(gem, <span class="hljs-string">"= #{version}"</span>)
-<span class="hljs-keyword">end</span>
-</code></pre>
-  </body>
-</html>
+    <pre><code class="lang-ruby
